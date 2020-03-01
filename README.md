@@ -25,3 +25,6 @@ Daha Sonra Alt Kısımda '**Path**' Bulup Basıyor Ve '**Düzenle**' Diyoruz. So
 -----------------------------------------------------------------------------------------------------------------------------------------
 Bilgisayar'ınızı Yeniden Başlatmanız Sonucunda Artık 'cmd' kullanılarak Komutlar Yazıla Bilir!
 İlk Olarak '**cmd**' ye '**setup**' Komutu Yazılarak Çalıştırıla Bilir Script ler Listelenir!
+
+-----------------------------------------------------------------------------------------------------------------------------------------
+### "**setup**" Komutu Çalıştırılarak Aynı Zamanda Yeni Sürüm Geldiğinde Anında Yeni Sürümden Haberdar Olabilirsiniz!
