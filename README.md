@@ -35,6 +35,24 @@ Bilgisayar'ınızı Yeniden Başlatmanız Sonucunda Artık 'cmd' kullanılarak K
 
 -----------------------------------------------------------------------------------------------------------------------------------------
 
+
+
+# Yeni Sürüm **0.0.3** İle Gelen Özellikler ;
+
+
+> 
+> 1. Fake Person Image ,
+> 2. Mini Güncellemeler.
+
+### Fake Person Image ;
+**Fake Person Image** Kullanarak (Gerçekde Var Olmayan İnsan Profilleri Oluşturur ve Bu Yüzleri Hem (C:\Users\%UserName% yoluna) Kaydeder Hem de Açıp Size Gösterir. Eğer Beğenmez iseniz Tekrardan Çalıştırarak Yeni profil Alınabilir!
+
+---
+### Mini Güncellemeler ;
+Instagram'da Bahsettiğim Mini Güncellemeler'i Birleştirildi ve Daha Kolay Bir Kullanım Sunuldu!
+
+-----------------------------------------------------------------------------------------------------------------------------------------
+
 # Yeni Sürüm **0.0.2** İle Gelen Özellikler ;
 
 
